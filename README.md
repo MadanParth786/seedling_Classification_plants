@@ -15,6 +15,6 @@ actually this model is though not complete i am still working over their 95 % wo
 11>Small-flowered Cranesbill
 12>Sugar beet
 
-i have also provided one zip file download that file for getting training and testing dataset of this model.
+i have also provided one zip file path that you can  download that file from kaggle website for getting training and testing dataset of this model.
 for more details contact freely with me on my mail_id: parthmadan1110@gmail.com
 connect with me on linkdin for more excited projects and other details: https://www.linkedin.com/in/parth-madan-51a1b5192
